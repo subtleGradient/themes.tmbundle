@@ -679,10 +679,10 @@ meta.group.braces.curly.function meta.delimiter.object.comma,
 meta.brace.round</string>
 			<key>settings</key>
 			<dict>
+				<key>disabled-foreground</key>
+				<string>#BC80FF</string>
 				<key>fontStyle</key>
 				<string>bold</string>
-				<key>foreground</key>
-				<string>#BC80FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1293,10 +1293,10 @@ meta.brace.round</string>
 source.css meta.scope.property-list meta.property-value punctuation.separator.arguments</string>
 			<key>settings</key>
 			<dict>
+				<key>disabled-foreground</key>
+				<string>#006680</string>
 				<key>fontStyle</key>
 				<string></string>
-				<key>foreground</key>
-				<string>#006680</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1367,17 +1367,6 @@ source.css meta.scope.property-list meta.property-value punctuation.separator.ar
 				<string>bold</string>
 				<key>foreground</key>
 				<string>#FF7900</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>§ Attribute</string>
-			<key>scope</key>
-			<string>source.css entity.other.attribute-name.attribute</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#C25A00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1824,17 +1813,6 @@ source.css meta.scope.property-list meta.property-value punctuation.separator.ar
 			<dict>
 				<key>background</key>
 				<string>#0D0D0D</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>◊ Source</string>
-			<key>scope</key>
-			<string>source</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -2346,17 +2324,17 @@ source.ocaml punctuation.separator.match-definition
 </string>
 			<key>settings</key>
 			<dict>
+				<key>disabled-foreground</key>
+				<string>#0C823B</string>
 				<key>fontStyle</key>
 				<string>bold</string>
-				<key>foreground</key>
-				<string>#0C823B</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Function Punctuation</string>
 			<key>scope</key>
-			<string>punctuation.separator.parameters.function.js,punctuation.definition.function, punctuation.separator.function-return, punctuation.separator.function-definition, punctuation.definition.arguments, punctuation.separator.arguments</string>
+			<string>punctuation.separator.parameters.function.js, punctuation.definition.function, punctuation.separator.function-return, punctuation.separator.function-definition, punctuation.definition.arguments, punctuation.separator.arguments</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -2601,10 +2579,10 @@ meta.property.vendor.microsoft.trident.4 support.type.property-name,
 meta.property.vendor.microsoft.trident.4 punctuation.terminator.rule</string>
 			<key>settings</key>
 			<dict>
+				<key>disabled-foreground</key>
+				<string>#1B95E2</string>
 				<key>fontStyle</key>
 				<string></string>
-				<key>foreground</key>
-				<string>#1B95E2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2617,10 +2595,10 @@ meta.property.vendor.microsoft.trident.5 punctuation.separator.key-value,
 meta.property.vendor.microsoft.trident.5 punctuation.terminator.rule</string>
 			<key>settings</key>
 			<dict>
+				<key>disabled-foreground</key>
+				<string>#F5C034</string>
 				<key>fontStyle</key>
 				<string></string>
-				<key>foreground</key>
-				<string>#F5C034</string>
 			</dict>
 		</dict>
 		<dict>
