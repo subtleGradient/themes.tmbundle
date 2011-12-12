@@ -687,10 +687,10 @@ meta.group.braces.curly.function meta.delimiter.object.comma,
 meta.brace.round</string>
 			<key>settings</key>
 			<dict>
+				<key>disabled-foreground</key>
+				<string>#3D1F64</string>
 				<key>fontStyle</key>
 				<string></string>
-				<key>foreground</key>
-				<string>#3D1F64</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1301,10 +1301,10 @@ meta.brace.round</string>
 source.css meta.scope.property-list meta.property-value punctuation.separator.arguments</string>
 			<key>settings</key>
 			<dict>
+				<key>disabled-foreground</key>
+				<string>#A5DEEA</string>
 				<key>fontStyle</key>
 				<string></string>
-				<key>foreground</key>
-				<string>#A5DEEA</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1384,7 +1384,7 @@ source.css meta.scope.property-list meta.property-value punctuation.separator.ar
 			<string>source.css entity.other.attribute-name.attribute</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
+				<key>disabled-foreground</key>
 				<string>#CD9163</string>
 			</dict>
 		</dict>
@@ -2372,9 +2372,9 @@ source.ocaml punctuation.separator.match-definition
 </string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
+				<key>disabled-fontStyle</key>
 				<string>bold</string>
-				<key>foreground</key>
+				<key>disabled-foreground</key>
 				<string>#A4E4BC</string>
 			</dict>
 		</dict>
@@ -2627,10 +2627,10 @@ meta.property.vendor.microsoft.trident.4 support.type.property-name,
 meta.property.vendor.microsoft.trident.4 punctuation.terminator.rule</string>
 			<key>settings</key>
 			<dict>
+				<key>disabled-foreground</key>
+				<string>#357BA2</string>
 				<key>fontStyle</key>
 				<string></string>
-				<key>foreground</key>
-				<string>#357BA2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2643,10 +2643,10 @@ meta.property.vendor.microsoft.trident.5 punctuation.separator.key-value,
 meta.property.vendor.microsoft.trident.5 punctuation.terminator.rule</string>
 			<key>settings</key>
 			<dict>
+				<key>disabled-foreground</key>
+				<string>#98762D</string>
 				<key>fontStyle</key>
 				<string></string>
-				<key>foreground</key>
-				<string>#98762D</string>
 			</dict>
 		</dict>
 		<dict>
